@@ -25,3 +25,4 @@ function createParticle(x, y) {
       { transform: `translate(${vx}px, ${vy}px)`, opacity: 0 },
     ],
     {
+      duration: 1000, // Animation duration in milliseconds
