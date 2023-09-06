@@ -41,3 +41,4 @@ function createParticle(x, y) {
 content.addEventListener("click", (e) => {
   createParticle(e.clientX, e.clientY);
 });
+
