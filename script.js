@@ -42,3 +42,4 @@ content.addEventListener("click", (e) => {
   createParticle(e.clientX, e.clientY);
 });
 
+content.addEventListener("mousemove", (e) => {
