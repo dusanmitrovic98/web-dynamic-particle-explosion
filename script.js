@@ -9,3 +9,4 @@ function createParticle(x, y) {
   particle.style.top = `${y}px`;
   container.appendChild(particle);
 
+  const colors = ["#f00", "#0f0", "#00f", "#ff0", "#0ff"]; // Array of particle colors
