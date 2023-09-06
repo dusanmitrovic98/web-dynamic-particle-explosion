@@ -16,3 +16,4 @@ function createParticle(x, y) {
   particle.style.backgroundColor = randomColor;
 
   const vx = (Math.random() - 0.5) * 10; // Random horizontal velocity
+  const vy = (Math.random() - 0.5) * 10; // Random vertical velocity
