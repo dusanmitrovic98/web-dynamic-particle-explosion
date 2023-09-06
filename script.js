@@ -36,3 +36,4 @@ function createParticle(x, y) {
     particle.remove();
   });
 }
+
