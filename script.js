@@ -40,3 +40,4 @@ function createParticle(x, y) {
 // Event listeners for mouse click and hover
 content.addEventListener("click", (e) => {
   createParticle(e.clientX, e.clientY);
+});
