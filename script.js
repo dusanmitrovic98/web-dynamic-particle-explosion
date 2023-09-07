@@ -20,3 +20,4 @@ function createParticle(x, y) {
 
   // Apply animation to move particles dynamically
   particle.animate(
+    [
