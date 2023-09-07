@@ -30,3 +30,4 @@ function createParticle(x, y) {
       fill: "forwards", // Keep the final state of the animation
     }
   );
+
