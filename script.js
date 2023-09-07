@@ -8,3 +8,4 @@ function createParticle(x, y) {
   particle.style.left = `${x}px`;
   particle.style.top = `${y}px`;
   container.appendChild(particle);
+
