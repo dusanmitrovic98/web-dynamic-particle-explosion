@@ -10,3 +10,4 @@ function createParticle(x, y) {
   container.appendChild(particle);
 
   const colors = ["#f00", "#0f0", "#00f", "#ff0", "#0ff"]; // Array of particle colors
+
