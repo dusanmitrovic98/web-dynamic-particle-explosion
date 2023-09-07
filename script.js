@@ -6,3 +6,4 @@ function createParticle(x, y) {
   const particle = document.createElement("div");
   particle.classList.add("particle");
   particle.style.left = `${x}px`;
+  particle.style.top = `${y}px`;
