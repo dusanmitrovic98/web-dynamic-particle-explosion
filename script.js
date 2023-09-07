@@ -29,3 +29,4 @@ function createParticle(x, y) {
       easing: "ease-out", // Animation easing function
       fill: "forwards", // Keep the final state of the animation
     }
+  );
