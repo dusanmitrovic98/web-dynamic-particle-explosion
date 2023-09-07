@@ -31,3 +31,4 @@ function createParticle(x, y) {
     }
   );
 
+  // Remove the particle from the DOM after the animation completes
