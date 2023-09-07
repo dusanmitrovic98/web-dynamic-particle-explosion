@@ -11,3 +11,4 @@ function createParticle(x, y) {
 
   const colors = ["#f00", "#0f0", "#00f", "#ff0", "#0ff"]; // Array of particle colors
 
+  // Randomly select a color from the array
