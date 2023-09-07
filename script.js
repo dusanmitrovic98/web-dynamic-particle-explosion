@@ -14,3 +14,4 @@ function createParticle(x, y) {
   // Randomly select a color from the array
   const randomColor = colors[Math.floor(Math.random() * colors.length)];
   particle.style.backgroundColor = randomColor;
+
