@@ -28,3 +28,4 @@ function createParticle(x, y) {
       duration: 1000, // Animation duration in milliseconds
       easing: "ease-out", // Animation easing function
       fill: "forwards", // Keep the final state of the animation
+    }
