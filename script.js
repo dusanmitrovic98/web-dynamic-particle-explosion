@@ -19,3 +19,4 @@ function createParticle(x, y) {
   const vy = (Math.random() - 0.5) * 10; // Random vertical velocity
 
   // Apply animation to move particles dynamically
+  particle.animate(
