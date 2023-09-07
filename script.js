@@ -22,3 +22,4 @@ function createParticle(x, y) {
   particle.animate(
     [
       { transform: "translate(0, 0)", opacity: 1 },
+      { transform: `translate(${vx}px, ${vy}px)`, opacity: 0 },
