@@ -7,3 +7,4 @@ function createParticle(x, y) {
   particle.classList.add("particle");
   particle.style.left = `${x}px`;
   particle.style.top = `${y}px`;
+  container.appendChild(particle);
