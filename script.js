@@ -15,3 +15,4 @@ function createParticle(x, y) {
   const randomColor = colors[Math.floor(Math.random() * colors.length)];
   particle.style.backgroundColor = randomColor;
 
+  const vx = (Math.random() - 0.5) * 10; // Random horizontal velocity
