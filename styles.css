@@ -19,3 +19,4 @@ body {
 /* Particle styles */
 .particle {
     position: absolute;
+    width: 8px;
