@@ -21,3 +21,4 @@ function createParticle(x, y) {
   // Apply animation to move particles dynamically
   particle.animate(
     [
+      { transform: "translate(0, 0)", opacity: 1 },
