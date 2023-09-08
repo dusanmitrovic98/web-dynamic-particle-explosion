@@ -22,3 +22,4 @@ body {
     width: 8px;
     height: 8px;
     background-color: #f00; /* Initial particle color */
+    border-radius: 50%;
