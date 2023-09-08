@@ -35,3 +35,4 @@ function createParticle(x, y) {
   particle.addEventListener("animationend", () => {
     particle.remove();
   });
+}
