@@ -21,3 +21,4 @@ body {
     position: absolute;
     width: 8px;
     height: 8px;
+    background-color: #f00; /* Initial particle color */
