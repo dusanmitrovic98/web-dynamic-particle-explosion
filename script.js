@@ -5,3 +5,4 @@ const content = document.querySelector(".content");
 function createParticle(x, y) {
   const particle = document.createElement("div");
   particle.classList.add("particle");
+  particle.style.left = `${x}px`;
